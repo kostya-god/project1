@@ -1,0 +1,116 @@
+*{
+	box-sizing: border-box;
+}
+
+.top-bar{
+	margin-top: -52px;
+	display:inline-block;
+	width: 100%;
+	position: fixed;
+	background-color: #4682B4;
+	height: 42px;
+}
+.icon{
+	margin-top:9px;
+	display: inline-block;
+	
+	
+}
+.icon a:hover{
+	text-decoration:none;
+	color:white;
+}
+.search{
+	display:inline;
+	margin-left: 50px;
+}
+.search input{
+	width: 250px;
+	height: 30px;
+}
+.icon a{
+	font-family: 'Exo 2', sans-serif;
+	color:white;
+}
+.logo{
+	display:inline;
+}
+.logo img{
+	margin-top: -3px;
+	margin-left: 400px;
+}
+.main-section{ 
+height: 8900px;
+margin-top:52px;
+margin-left: 350px;
+margin-right: 350px;
+}
+.l-bar{
+	display:inline-block;
+	height: 8900px;
+	width: 20%;
+	background-color: grey;
+}
+.m-bar{
+	display:inline-block;
+	height: 8900px;
+	width: 55%;
+	background-color: red;
+}
+.r-bar{
+	display:inline-block;
+	height: 8900px;
+	width: 25%;
+	background-color: green;
+}
+.menu{
+	background-color: black;
+	height: 7%;
+	margin:15px;
+}
+.ad{
+	background-color: black;
+	height: 93%;
+	margin:15px;
+}
+.status-bar{
+	background-color:yellow;
+	height: 50px;
+	margin:15px;
+}
+.story-bar{
+	background-color:yellow;
+	height: 200px;
+	margin:15px;
+}
+.feed-bar{
+	background-color:yellow;
+	height: 8650px;
+	margin:15px;
+}
+.panel{
+	background-color:yellow;
+	height: 400px;
+	margin:15px;
+}
+.mini-panel{
+	background-color:yellow;
+	height: 50px;
+	margin:15px;
+}
+.notifications{
+	display:inline;
+}
+.notifications img{
+	margin-left: 35px;
+	margin-top:-3px;
+}
+.music-bar{
+	padding-top: -4px;
+	display:inline-block;
+	width: 300px;
+	height: 42px;
+}
+.music-bar a{
+	background-color: red;
+}
